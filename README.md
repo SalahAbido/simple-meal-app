@@ -1,19 +1,7 @@
 # meels_app
 
-A new Flutter project.
+this is a simple  meal app for showing meals  form local data and filter data with main category and  filters screen.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ![Capture](https://user-images.githubusercontent.com/96310108/228079524-637c5d8d-8d66-40dd-b856-3f33adc411c8.PNG)
 ![Capture](https://user-images.githubusercontent.com/96310108/228079893-0e67f1f1-891f-4b1f-b05a-8749f70a643e.PNG)
